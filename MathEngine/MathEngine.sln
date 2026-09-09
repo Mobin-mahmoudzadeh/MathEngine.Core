@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathEngine.Core", "MathEngine.Core\MathEngine.Core.csproj", "{33CE5F5A-FEB9-4199-9E18-A59AFFB8861D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathEngine.Runner", "MathEngine.Runner\MathEngine.Runner.csproj", "{F329DD35-5ACC-47BB-AF57-264A2D433C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33CE5F5A-FEB9-4199-9E18-A59AFFB8861D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CE5F5A-FEB9-4199-9E18-A59AFFB8861D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CE5F5A-FEB9-4199-9E18-A59AFFB8861D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CE5F5A-FEB9-4199-9E18-A59AFFB8861D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F329DD35-5ACC-47BB-AF57-264A2D433C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F329DD35-5ACC-47BB-AF57-264A2D433C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F329DD35-5ACC-47BB-AF57-264A2D433C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F329DD35-5ACC-47BB-AF57-264A2D433C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
