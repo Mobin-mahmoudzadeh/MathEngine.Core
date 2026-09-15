@@ -14,7 +14,7 @@ An open-source, zero-dependency C# class library designed for manual mathematica
 
 | Phase | Module | Scope | Status |
 | :--- | :--- | :--- | :--- |
-| **Phase 1** | Exponents & Basic Roots | Integer powers ($a^b$, $a^0$, $a^{-b}$) and manual square/cube roots | 🟡 In Progress |
+| **V0.1.0** | Exponents & Basic Roots | Integer powers ($a^b$, $a^0$, $a^{-b}$) and manual square/cube roots | 🟡 In Progress |
 
 ---
 
