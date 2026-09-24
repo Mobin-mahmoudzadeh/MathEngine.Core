@@ -2,7 +2,7 @@
 {
     public static class PowerEngine
     {
-        public static double CalculatePositivePower(double baseNum, int exponent)
+        public static double CalculatePower(double baseNum, int exponent)
         {
             if (baseNum == 0 && exponent < 0)
             {
