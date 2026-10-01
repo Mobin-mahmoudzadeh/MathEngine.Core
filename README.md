@@ -1,5 +1,4 @@
 # MathEngine.Core
-# MathEngine.Core
 
 An open-source, zero-dependency C# class library designed for manual mathematical computations, including exponentiation, roots, and logarithms—built without relying on framework primitives like `Math.Pow` or `Math.Sqrt`.
 
