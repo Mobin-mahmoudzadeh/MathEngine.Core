@@ -14,7 +14,7 @@ An open-source, zero-dependency C# class library designed for manual mathematica
 
 | Phase | Module | Scope | Status |
 | :--- | :--- | :--- | :--- |
-| **V.0.1** | Exponents & Basic Roots | Integer powers ($a^b$, $a^0$, $a^{-b}$) and manual square/cube roots | 🟢 Released |
+| **V.0.1.0** | Exponents & Basic Roots | Integer powers ($a^b$, $a^0$, $a^{-b}$) and manual square/cube roots | 🟢 Released |
 | V0.2.0 | Self-Sufficiency & Roots | Numerical root algorithms (Newton-Raphson, $n$-th root) without framework dependencies | 🟡 In Progress |
 
 ---
